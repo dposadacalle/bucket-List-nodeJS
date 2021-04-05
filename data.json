@@ -1,0 +1,67 @@
+[
+  {
+    "item": "Buy Bread",
+    "completed": true,
+    "date": "12/24/2019"
+  },
+  {
+    "item": "Unit Testing",
+    "completed": true,
+    "date": "24/03/2021"
+  },
+  {
+    "item": "Watch movie",
+    "completed": true,
+    "date": "24/03/2021"
+  },
+  {
+    "item": "Watch movie",
+    "completed": true,
+    "date": "24/03/2021"
+  },
+  {
+    "item": "Watch movie",
+    "completed": true,
+    "date": "24/03/2021"
+  },
+  {
+    "item": "Watch movie",
+    "completed": true,
+    "date": "24/03/2021"
+  },
+  {
+    "item": "Watch movie",
+    "completed": true,
+    "date": "24/03/2021"
+  },
+  {
+    "item": "Buy Bread Two",
+    "completed": true,
+    "date": ""
+  },
+  {
+    "item": "Wath Movie 2",
+    "completed": true,
+    "date": "25/03/2020"
+  },
+  {
+    "item": "Debbuger Attached",
+    "completed": true,
+    "date": "26/03/2020"
+  },
+  {
+    "item": "MyExample",
+    "completed": true,
+    "date": ""
+  },
+  {
+    "item": "Myexample2",
+    "completed": true,
+    "date": ""
+  },
+  {
+    "item": "Example3",
+    "completed": true,
+    "date": ""
+  }
+]
